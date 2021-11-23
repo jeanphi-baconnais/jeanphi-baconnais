@@ -14,7 +14,7 @@ I help [GDG Cloud Nantes](https://gdg.community.dev/gdg-cloud-nantes/)
 - [Twitter @JPhi_Baconnais](https://twitter.com/JPhi_Baconnais)
 - [Linkedin](https://www.linkedin.com/in/jean-philippe-baconnais-931544116/)
 - [🦊 GitLab](http://gitlab.com/jeanphi-baconnais/)
-- [My website](jeanphi-baconnais.gitlab.io)
+- [My website](https://jeanphi-baconnais.gitlab.io)
 - [Dev.to](https://dev.to/jphi_baconnais)
 
 
