@@ -1,4 +1,23 @@
-### Hi there 👋
+# Hello World 👋 
+
+💫  developer at [Zenika Nantes](https://zenika.com/agency/nantes).
+
+🦊  GitLab Hero since summer 2020 
+
+Co organizer at [Human Talks live & Nantes](https://humantalks.com/)
+
+I help [GDG Cloud Nantes](https://gdg.community.dev/gdg-cloud-nantes/)
+
+
+## 💬  You can find me on 
+
+- [Twitter @JPhi_Baconnais](https://twitter.com/JPhi_Baconnais)
+- [Linkedin](https://www.linkedin.com/in/jean-philippe-baconnais-931544116/)
+- [🦊 GitLab](http://gitlab.com/jeanphi-baconnais/)
+- [My website](jeanphi-baconnais.gitlab.io)
+- [Dev.to](https://dev.to/jphi_baconnais)
+
+
 
 <!--
 **jeanphibaconnais/jeanphibaconnais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
