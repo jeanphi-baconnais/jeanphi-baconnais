@@ -16,6 +16,7 @@ I help [GDG Cloud Nantes](https://gdg.community.dev/gdg-cloud-nantes/)
 - [🦊 GitLab](http://gitlab.com/jeanphi-baconnais/)
 - [My website](https://jeanphi-baconnais.gitlab.io)
 - [Dev.to](https://dev.to/jphi_baconnais)
+- [SpeakerDeck](https://speakerdeck.com/jeanphibaconnais)
 
 
 
