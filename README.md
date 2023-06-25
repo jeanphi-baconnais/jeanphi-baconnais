@@ -4,7 +4,7 @@
 
 🦊  GitLab Hero since summer 2020
 
-🍑 Community Hero [GitPod](https://www.gitpod.io/)
+🍑 Community Hero [Gitpod](https://www.gitpod.io/)
 
 Co organizer at [Human Talks live & Nantes](https://humantalks.com/)
 
