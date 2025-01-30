@@ -14,7 +14,7 @@ Co organizer at [Human Talks live & Nantes](https://humantalks.com/) and [GitLab
 ## 💬  You can find me on 
 
 - [Twitter @JPhi_Baconnais](https://twitter.com/JPhi_Baconnais)
-- [Bluesky @jeanphi-baconnais.bsky.social](https://bsky.app/profile/jeanphi-baconnais.bsky.social)
+- [Bluesky @jeanphi-baconnais.gitlab.io](https://bsky.app/profile/jeanphi-baconnais.gitlab.io)
 - [Linkedin](https://www.linkedin.com/in/jean-philippe-baconnais-931544116/)
 - [GitLab](https://gitlab.com/jeanphi-baconnais/)
 - [My website](https://jeanphi-baconnais.gitlab.io/)
