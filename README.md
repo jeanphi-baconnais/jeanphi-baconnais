@@ -1,12 +1,10 @@
 # Hello World 👋 
 
-💫  developer at [Zenika Nantes](https://zenika.com/agency/nantes).
+💫  Developer at [Zenika Nantes](https://zenika.com/agency/nantes).
 
 🦊  GitLab Hero since summer 2020 
 
-🍑 Community Hero [Gitpod](https://www.gitpod.io/)
-
-⛅ Google Cloud Champion Innovators 
+⛅ Google Developer Expert (GDE) Cloud
 
 Co organizer at [Human Talks live & Nantes](https://humantalks.com/) and [GitLab France](https://www.meetup.com/fr-FR/gitlab-meetup-france/)
 
